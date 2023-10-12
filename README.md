@@ -5,7 +5,7 @@
 
   <h1 align="center">FitSage - O seu melhor treino</h1>
 
-  >FitSage é uma plataforma mobile revolucionária que informa o treino que atenda às necessidades únicas de cada cliente. Ao preencher um formulário abrangente, nossos algoritmo analisa suas respostas e geram como resultado o tipo de treino em que o usuário se encaixa, adaptado especificamente para você.
+  >FitSage é uma plataforma mobile revolucionária que informa o treino e atenda às necessidades únicas de cada cliente. Ao preencher um formulário abrangente, nosso algoritmo analisa suas respostas e geram como resultado o tipo de treino em que o usuário se encaixa, adaptado especificamente para você.
 
   <a href="https://github.com/p1nheiros/FitSage"><strong>➥ Visualizar Projeto</strong></a>
 
