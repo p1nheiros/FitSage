@@ -13,7 +13,7 @@
 
 ### 📱 Prototipação
 
-  <a href="https://github.com/p1nheiros/FitSage"><strong>➥ Clique para acessar</strong></a>
+  <a href="https://app.moqups.com/kv92RMV4fjnUWgxulWR6CHTbO6yhhOqY/view/page/ad64222d5"><strong>➥ Clique para acessar</strong></a>
 
 <br />
 
