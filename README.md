@@ -13,7 +13,7 @@
 
 ### 📱 Prototipação
 
-  <a href="https://app.moqups.com/kv92RMV4fjnUWgxulWR6CHTbO6yhhOqY/view/page/ad64222d5"><strong>➥ Clique para acessar</strong></a>
+[Clique aqui](https://app.moqups.com/kv92RMV4fjnUWgxulWR6CHTbO6yhhOqY/view/page/ad64222d5) para acessar a prototipação.
 
 <br />
 
@@ -54,7 +54,7 @@ git clone https://github.com/p1nheiros/FitSage.git
     </td>
     <td>
       <a href="#">
-        <img alt="Caio Sargon"/><br>
+        <img src="https://avatars.githubusercontent.com/u/125319279?v=4" width="100px;" alt="Caio Sargon"/><br>
         <sub>
           <b>Caio Sargon</b>
         </sub>
